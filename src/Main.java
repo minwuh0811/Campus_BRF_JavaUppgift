@@ -9,11 +9,9 @@ public class Main {
         if (j > i) {
             System.out.println("Hej");
         } else if(j<i) {
-            System.out.printf("Tjena");
+            System.out.printf(s);
         } else{
             System.out.printf("I did't know you!!");
         }
-        System.out.println("Hello World" + i); //local > global
-        JOptionPane.showMessageDialog(null, s);
     }
 }
