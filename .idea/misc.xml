@@ -111,8 +111,4 @@
       <option name="VERSION" />
     </GetOptions>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
 </project>
